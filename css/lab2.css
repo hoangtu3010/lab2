@@ -1,0 +1,24 @@
+body{
+    width: 540px;
+    margin: auto;
+}
+p{
+    text-align: justify;
+}
+ul{
+    margin-left: -25px;
+}
+#doancuoi{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+.d1{
+    height: 2px;
+}
+.d2{
+    height: 8px;
+}
+
+
+
